@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: 'Robodo', sans-serif;
+  color: #666;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
